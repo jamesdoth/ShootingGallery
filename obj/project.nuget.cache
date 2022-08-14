@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4kILuRPDYEfNo1f7jamzjRO3g5MNyD/jYLra7TwydiV0dIc00pvWtFrMeAfvPZWSERTD9x65Z/IxMTTvvgd/Cg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gusto\\Desktop\\CSharp\\ShootingGallery\\ShootingGallery.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gusto\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\gusto\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
